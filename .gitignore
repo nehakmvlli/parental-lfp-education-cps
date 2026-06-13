@@ -1,0 +1,14 @@
+# IPUMS data files - never commit these
+data/raw/
+*.dat
+*.dat.gz
+*.xml
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
