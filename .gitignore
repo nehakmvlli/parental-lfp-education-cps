@@ -1,8 +1,11 @@
-# IPUMS data files - never commit these
+# IPUMS data files, can't commit these per data use agreement
 data/raw/
 *.dat
 *.dat.gz
 *.xml
+
+# clean data files, can be recreated running code
+data/clean/
 
 # Python
 venv/
@@ -10,5 +13,15 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
+# R
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+
 # OS
 .DS_Store
+
+# Jupyter
+.jupyter/
+

@@ -1,0 +1,17 @@
+YEAR,educ_cat,weighted_nilf_pct,n_records
+2022,1_less_than_hs,57.2,437
+2022,2_hs_diploma,43.1,1308
+2022,3_some_college,33.5,1511
+2022,4_bachelors_plus,22.1,2865
+2023,1_less_than_hs,60.9,377
+2023,2_hs_diploma,40.3,1235
+2023,3_some_college,35.3,1391
+2023,4_bachelors_plus,20.7,2665
+2024,1_less_than_hs,62.2,336
+2024,2_hs_diploma,40.0,1192
+2024,3_some_college,31.9,1338
+2024,4_bachelors_plus,20.6,2615
+2025,1_less_than_hs,60.3,325
+2025,2_hs_diploma,43.9,1121
+2025,3_some_college,31.0,1300
+2025,4_bachelors_plus,21.0,2643

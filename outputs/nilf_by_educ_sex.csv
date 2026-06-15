@@ -1,0 +1,9 @@
+educ_cat,sex_label,weighted_nilf_pct,n_records
+1_less_than_hs,Female,60.0,1475
+1_less_than_hs,Male,8.7,1480
+2_hs_diploma,Female,41.8,4856
+2_hs_diploma,Male,6.3,5110
+3_some_college,Female,33.0,5540
+3_some_college,Male,5.0,4756
+4_bachelors_plus,Female,21.1,10788
+4_bachelors_plus,Male,2.8,8656
